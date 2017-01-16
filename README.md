@@ -1,3 +1,3 @@
 # myTestSpade
-This is greate REP!
+This is greate REPO!
 So this is my first test!
